@@ -4,7 +4,7 @@ require 'open-uri'
 
 
 class GetRequester
-  URL = 
+  URL = https://learn-co-curriculum.github.io/json-site-example/endpoints/people.json
   def initialize
 
   end
